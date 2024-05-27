@@ -5,7 +5,7 @@ Este design simula o protótipo de um site educacional para aprendizagem de prog
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[Bing Copilot](https://copilot.microsoft.com/)** gerar a imagem;
+- IA Generativa **[Bing Copilot](https://copilot.microsoft.com/)** para gerar a imagem;
 
 ## 🧐 Processo de Criação
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar o protótipo. "Bing Copilot" foi utilizado para gerar a imagem do protótipo.
@@ -13,7 +13,7 @@ Este design simula o protótipo de um site educacional para aprendizagem de prog
 ## 🚀 Resultados
 O protótipo apresentou uma visão futurística de um design para site web, sem deixar de lado os elementos que caracterizam uma página. Porém, a forma como organizada os elemntos traz um bombardeamento de informação na primeira interação com o usuário.
 
-[LINK PARA O PODCAST AQUI]()
+![LINK PARA O PODCAST AQUI](_e15ff659-d090-41b5-bd41-3c3b70133b34.jpg)
 
 ## 💭 Reflexão
 Apesar das ressalvas, as IAs usadas apresentaram bons resultados ao desafio proposto, de modo que o aperfeiçoamento dos promps utilizados podem trazer imagens mais acertadas à expectativa do usuário.
