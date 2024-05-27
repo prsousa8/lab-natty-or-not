@@ -1,21 +1,20 @@
-# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
+# Protótipo de site: Criando design de um site com IA 🎨
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Este design simula o protótipo de um site educacional para aprendizagem de programação
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
+- IA Generativa **[Bing Copilot](https://copilot.microsoft.com/)** gerar a imagem;
 
 ## 🧐 Processo de Criação
-"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+"ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar o protótipo. "Bing Copilot" foi utilizado para gerar a imagem do protótipo.
 
 ## 🚀 Resultados
-O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+O protótipo apresentou uma visão futurística de um design para site web, sem deixar de lado os elementos que caracterizam uma página. Porém, a forma como organizada os elemntos traz um bombardeamento de informação na primeira interação com o usuário.
 
 [LINK PARA O PODCAST AQUI]()
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+Apesar das ressalvas, as IAs usadas apresentaram bons resultados ao desafio proposto, de modo que o aperfeiçoamento dos promps utilizados podem trazer imagens mais acertadas à expectativa do usuário.
 
